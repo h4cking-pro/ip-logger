@@ -1,0 +1,16 @@
+{
+  "data":{
+    "abc123":{
+      "url":"https://google.com",
+      "status_code": 302
+    },
+    "123abc":{
+      "url":"https://h4cking.pro",
+      "status_code": 302
+    },
+    "ytc123":{
+      "url":"https://youtube.com",
+      "status_code": 302
+    }
+  }
+}
